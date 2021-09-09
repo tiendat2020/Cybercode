@@ -24,3 +24,4 @@ function answer()
     }
 }
 echo answer();
+?>
